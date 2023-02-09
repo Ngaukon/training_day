@@ -1,3 +1,3 @@
-#training
+# training
 
-this is just training
+this is just training and verification
